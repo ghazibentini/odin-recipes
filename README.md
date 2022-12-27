@@ -1,1 +1,1 @@
-# odin-recipes
+Creating a recipe site for the odin project course
